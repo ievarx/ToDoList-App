@@ -18,7 +18,7 @@ This repository contains the **To-Do App**, a **university database task** where
 #### **⚙️ How to Run:**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/ievarx/todo-app.git
    ```  
 2. **Install dependencies:**  
    - Follow the instructions in **`install.txt`**.  
